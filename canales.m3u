@@ -14,3 +14,9 @@ https://mdstrm.com/live-stream-playlist/5d275e7a32d18d078b548b11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_Chile.svg" group-title="Nacionales", Canal 13
 https://mdstrm.com/live-stream-playlist/58a49cbe5012579b2f6f1947.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/T13_logo_2019.svg" group-title="Noticias", T13 En Vivo
+https://mdstrm.com/live-stream-playlist/63c013fbdf9eb30898be2a8a.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Mega_Chile_logo_2020.svg" group-title="Nacionales", Mega
+https://cl-mega-live.media.tvplus.cl/hls/live/mega.m3u8
