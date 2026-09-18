@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Deutsche_Welle_2012.svg" group-title="Noticias", DW Español
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/NTN24_logo.png" group-title="Noticias", NTN24
-https://ntn24-edge.tulix.tv/live/ntn24/index.m3u8
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RT_Spanish_logo.svg" group-title="Noticias", RT en Español
+https://rt-esp.cdn.videocdn.net/live/rtesp/index.m3u8
 
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/CGTN_Espa%C3%B1ol_Logo.png" group-title="Noticias", CGTN Español
-https://espanol-live.cgtn.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="USMPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/NTN24_logo.png" group-title="Educativo", USMP TV
+https://5b7414dfa0be7.streamlock.net/usmptv/usmptv/playlist.m3u8
