@@ -2,3 +2,12 @@
 
 #EXTINF:-1 tvg-id="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Deutsche_Welle_2012.svg" group-title="Noticias", DW Español
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/TVE_Internacional.png" group-title="Internacional", TVE Internacional
+https://rtvelivestream.akamaized.net/tvei_europa_main.m3u8
+
+#EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TeleSUR_logo.png" group-title="Noticias", TeleSUR
+https://telesur.akamaized.net/hls/live/2028682/telesur/master.m3u8
+
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Euronews.png" group-title="Noticias", Euronews Español
+https://euronews-euronews-spanish-1-us.samsung.wurl.tv/playlist.m3u8
