@@ -1,9 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="DW" group-title="Noticias", DW Español
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTM3U
-
 #EXTINF:-1 tvg-id="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Deutsche_Welle_2012.svg" group-title="Noticias", DW Español
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
