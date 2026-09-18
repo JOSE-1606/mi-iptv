@@ -1,22 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Deutsche_Welle_2012.svg" group-title="Noticias", DW Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Deutsche_Welle_2012.svg" group-title="Noticias",DW Español
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/TVN_Chile_logo.svg" group-title="Nacionales", TVN
-https://mdstrm.com/live-stream-playlist/53238128362d80d22003c20c.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/24_horas_TVN_logo.svg" group-title="Noticias",24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/24_horas_TVN_logo.svg" group-title="Noticias", 24 Horas
-https://mdstrm.com/live-stream-playlist/57d19cb8d95e7c0d024d2d4d.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/T13_logo_2019.svg" group-title="Noticias",T13 En Vivo
+https://redirector.dps.live/hls/t13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Chilevisi%C3%B3n_logo_2018.svg" group-title="Nacionales", Chilevisión
-https://mdstrm.com/live-stream-playlist/5d275e7a32d18d078b548b11.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_Chile.svg" group-title="Nacionales", Canal 13
-https://mdstrm.com/live-stream-playlist/58a49cbe5012579b2f6f1947.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/T13_logo_2019.svg" group-title="Noticias", T13 En Vivo
-https://mdstrm.com/live-stream-playlist/63c013fbdf9eb30898be2a8a.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Mega_Chile_logo_2020.svg" group-title="Nacionales", Mega
-https://cl-mega-live.media.tvplus.cl/hls/live/mega.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Cultura",13C
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
